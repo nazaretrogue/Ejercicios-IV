@@ -45,10 +45,9 @@ Ninguna de las banderas activas representan la virtualización, sino otras propi
 1. **Comprobar si el núcleo instalado en tu ordenador contiene este módulo del kernel usando la orden kvm-ok. Alternativamente (o además), usar lscpu como se indica arriba.**
 2. **Instalar un hipervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios.**
 
-1.
 Utilizando _kvm-ok_ podemos comprobar si el kernel de mi dispositivo puede utilizar la aceleración por hardware. Efectivamente, se puede, como queda reflejado en la siguiente captura:
 
-![kvm-ok](kvm-ok.png)
+![kvm-ok](img/kvm-ok.png)
 
 De la misma forma podemos comprobarlo con el comando
 
@@ -58,12 +57,11 @@ LC_ALL=C lscpu | grep Virtualization
 
 que nos confirma la información que ya habíamos extraído al utilizar _kvm-ok_: el kvm está activo.
 
-![LC_ALL=C lscpu | grep Virtualization](lscpu.png)
+![LC_ALL=C lscpu | grep Virtualization](img/lscpu.png)
 
-2.
 El hipervisor instalado no es software libre, pertenece a la Oracle: VirtualBox; es un hipervisor que hemos estado utilizando desde primero de carrera y que por eso es el que he elegido, ya que lo conozco bien y conozco algunos de los problemas que puede dar y cómo arreglarlos.
 
-![Oracle VirtualBox](virtualbox.png)
+![Oracle VirtualBox](img/virtualbox.png)
 
 ## Ejercicio 5
 **Darse de alta en servicios de nube usando ofertas gratuitas o cupones que pueda proporcionar el profesor.**
