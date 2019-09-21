@@ -66,5 +66,17 @@ El hipervisor instalado no es software libre, pertenece a la Oracle: VirtualBox;
 ## Ejercicio 5
 **Darse de alta en servicios de nube usando ofertas gratuitas o cupones que pueda proporcionar el profesor.**
 
+Me he dado de alta en _Amazon Web Services_. En la captura se puede apreciar los servicios que ofrece _Amazon_ una vez estás dentro de la cuenta registrada.
+
+![AWS](img/aws.png)
+
 ## Ejercicio 6
 **Darse de alta en una web que permita hacer pruebas con alguno de los sistemas de gestión de nube anteriores.**
+
+Para poder probar los servicios que se ofrecen en _AWS_, _WordPress_ permite desarrollar una página web a través de _AWS_, tal y como se muestra en la siguiente imagen.
+
+![WordPress ofrece servicios con AWS](img/wordpress.png)
+
+Para poder probarlo, me he dado de alta. He creado una stack por defecto para probar como funcionaba. No obstante, hay muchísimas cosas que no entiendo y que simplemente he dejado la opción por defecto. De hecho, hay un error en la creación, tal y como se puede ver en la captura, referente al _Key Name_, el cual ni siquiera me ha dado opción de elegir, así que al finalizar la creación, ha aparecido ese fallo de construcción.
+
+![Stack creada](img/stack.png)
