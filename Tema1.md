@@ -5,6 +5,18 @@
 
 El servidor utilizado de ejemplo es [este](https://www.pccomponentes.com/servidor-hp-proliant-ml110-gen10-intel-xeon-3106-16gb).
 
+Calcular el coste de amortización significa calcular cuanto se debería "ahorrar" al año para que, en el caso de que haya que sustituir el servidor, ya tengamos el dinero para sustituirlo por uno con el mismo precio.
+
+En este caso, el máximo que se puede amortizar como máximo anualmente es del 25%, es decir, en este caso concreto, con un servidor de 1057,02€ (sin IVA), el máximo anual sería de 264,255€.
+
+Calculemos ahora la amortización a 4 y 7 años:
+
+1. A 4 años.
+
+    <img src="https://latex.codecogs.com/gif.latex?Amortizacion=\frac{valor del bien}{tiempo de duracion}" />
+
+2. A 7 años.
+
 ## Ejercicio 2
 **Usando las tablas de precios de servicios de alojamiento en Internet "clásicos", es decir, que ofrezcan _Virtual Private Servers_ o servidores físicos, y de proveedores de servicios en la nube, comparar el coste durante un año de un ordenador con un procesador estándar (escogerlo de forma que sea el mismo tipo de procesador en los dos vendedores) y con el resto de las características similares (tamaño de disco duro equivalente a transferencia de disco duro) en el caso de que la infraestructura comprada se usa solo el 1% o el 10% del tiempo.**
 
