@@ -13,9 +13,15 @@ Calculemos ahora la amortización a 4 y 7 años:
 
 1. A 4 años.
 
-    ![equation](http://latex.codecogs.com/gif.latex?Amortizacion%3D%5Cfrac%7BValorBien%7D%7BTiempoDuracion%7D%3D%5Cfrac%7B%31%30%35%37%2C%30%32%7D%7B%34%7D%3D%32%36%34%2C%32%35)
+    ![equation](http://latex.codecogs.com/gif.latex?Amortizacion%3D%5Cfrac%7BValorBien%7D%7BTiempoDuracion%7D%3D%5Cfrac%7B%31%30%35%37%2C%30%32%7D%7B%34%7D%3D%32%36%34%2C%32%35%E2%82%AC)
+
+    Es decir, la amortización a 4 años supone "ahorrar" 264,25€ al año, que se corresponde con el máximo anual que se puede amortizar.
 
 2. A 7 años.
+
+    ![equation](http://latex.codecogs.com/gif.latex?Amortizacion%3D%5Cfrac%7BValorBien%7D%7BTiempoDuracion%7D%3D%5Cfrac%7B%31%30%35%37%2C%30%32%7D%7B%37%7D%3D%31%35%31%2C%30%30%32%E2%82%AC)
+
+    Para una amortización a 7 años, la cantidad a "ahorrar" es menor, puesto que se reparte entre más años. En este caso, dicha cantidad corresponde a 151,002€ anuales.
 
 ## Ejercicio 2
 **Usando las tablas de precios de servicios de alojamiento en Internet "clásicos", es decir, que ofrezcan _Virtual Private Servers_ o servidores físicos, y de proveedores de servicios en la nube, comparar el coste durante un año de un ordenador con un procesador estándar (escogerlo de forma que sea el mismo tipo de procesador en los dos vendedores) y con el resto de las características similares (tamaño de disco duro equivalente a transferencia de disco duro) en el caso de que la infraestructura comprada se usa solo el 1% o el 10% del tiempo.**
