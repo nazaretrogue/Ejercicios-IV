@@ -32,38 +32,38 @@ Ahora haré la comparativa:
 
 1. Uso del 1%.
 
-    * En _OVS_ el precio es de 232,2€ durante los 365 días al año, por lo que hacemos una regla de tres:
+    * En _OVS_ el precio es de 232,2€ durante los 365 días al año, por lo que hacemos una regla de tres:  
 
-    <img src="https://latex.codecogs.com/gif.latex?\frac{232,2}{1}=\frac{x}{0,01}" />
+    <img src="https://latex.codecogs.com/gif.latex?\frac{232,2}{1}=\frac{x}{0,01}" />  
 
-    <img src="https://latex.codecogs.com/gif.latex?x=2,322}" />
+    <img src="https://latex.codecogs.com/gif.latex?x=2,322}" />  
 
 
     O sea, el coste de usarlo solo el 1% de un año (3,65 días, unos 3 días y 15 horas) es de 2,322€.
 
-    * En _TMD Hosting_ el precio anual es de 359,64€. Volvemos a hacer una regla de tres:
+    * En _TMD Hosting_ el precio anual es de 359,64€. Volvemos a hacer una regla de tres:  
 
-    <img src="https://latex.codecogs.com/gif.latex?\frac{359,6}{1}=\frac{x}{0,01}" />
+    <img src="https://latex.codecogs.com/gif.latex?\frac{359,6}{1}=\frac{x}{0,01}" />  
 
-    <img src="https://latex.codecogs.com/gif.latex?x=3,596}" />
+    <img src="https://latex.codecogs.com/gif.latex?x=3,596}" />  
 
     Es decir, el coste de utilizar este servicio durante 3 días y 15 horas al año es de 3,596€.
 
 2. Uso del 10%.
 
-    * Comenzamos con _OVS_; al igual que con el 1% solo hay que hacer una regla de tres, en este caso suponiendo que se usa el 10%.
+    * Comenzamos con _OVS_; al igual que con el 1% solo hay que hacer una regla de tres, en este caso suponiendo que se usa el 10%.  
 
-    <img src="https://latex.codecogs.com/gif.latex?\frac{232,2}{1}=\frac{x}{0,1}" />
+    <img src="https://latex.codecogs.com/gif.latex?\frac{232,2}{1}=\frac{x}{0,1}" />  
 
-    <img src="https://latex.codecogs.com/gif.latex?x=23,22}" />
+    <img src="https://latex.codecogs.com/gif.latex?x=23,22}" />  
 
     Utilizarlo durante un 10% de un año, que supone unos 36 días y 12 horas aproximadamente, tiene un coste de 23,22€.
 
-    * Por último, en _TMD Hosting_:
+    * Por último, en _TMD Hosting_:  
 
-    <img src="https://latex.codecogs.com/gif.latex?\frac{359,6}{1}=\frac{x}{0,1}" /> 
+    <img src="https://latex.codecogs.com/gif.latex?\frac{359,6}{1}=\frac{x}{0,1}" />  
 
-    <img src="https://latex.codecogs.com/gif.latex?x=35,96}" />
+    <img src="https://latex.codecogs.com/gif.latex?x=35,96}" />  
 
     El coste del servicio durante un 10% del año es de 35,96€.
 
