@@ -13,7 +13,7 @@ Calculemos ahora la amortización a 4 y 7 años:
 
 1. A 4 años.
 
-    ![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)
+    ![equation](http://latex.codecogs.com/gif.latex?Amortizacion%3D%5Cfrac%7BValorBien%7D%7BTiempoDuracion%7D%3D%5Cfrac%7B%31%30%35%37%2C%30%32%7D%7B%34%7D%3D%32%36%34%2C%32%35)
 
 2. A 7 años.
 
