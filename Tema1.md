@@ -34,17 +34,18 @@ Ahora haré la comparativa:
 
     * En _OVS_ el precio es de 232,2€ durante los 365 días al año, por lo que hacemos una regla de tres:
 
-    ![equation](http://latex.codecogs.com/gif.latex?5Cfrac%7B%32%33%32%2C%32%7D%7B%31%7D%3D%5Cfrac%7B%78%7D%7B%30%2C%30%32)
+    <img src="https://latex.codecogs.com/gif.latex?\frac{232,2}{1}=\frac{x}{0,01}" />
 
-    ![equation](http://latex.codecogs.com/gif.latex?%78%3D%32%2C%33%32%32)
+    <img src="https://latex.codecogs.com/gif.latex?x=2,322}" />
+
 
     O sea, el coste de usarlo solo el 1% de un año (3,65 días, unos 3 días y 15 horas) es de 2,322€.
 
     * En _TMD Hosting_ el precio anual es de 359,64€. Volvemos a hacer una regla de tres:
 
-    ![equation](http://latex.codecogs.com/gif.latex?5Cfrac%7B%33%35%39%2C%36%34%7D%7B%31%7D%3D%5Cfrac%7B%78%7D%7B%30%2C%30%32)
+    <img src="https://latex.codecogs.com/gif.latex?\frac{359,6}{1}=\frac{x}{0,01}" />
 
-    ![equation](http://latex.codecogs.com/gif.latex?%78%3D%33%2C%35%39%36)
+    <img src="https://latex.codecogs.com/gif.latex?x=3,596}" />
 
     Es decir, el coste de utilizar este servicio durante 3 días y 15 horas al año es de 3,596€.
 
@@ -52,17 +53,17 @@ Ahora haré la comparativa:
 
     * Comenzamos con _OVS_; al igual que con el 1% solo hay que hacer una regla de tres, en este caso suponiendo que se usa el 10%.
 
-    ![equation](http://latex.codecogs.com/gif.latex?5Cfrac%7B%32%33%32%2C%32%7D%7B%31%30%7D%3D%5Cfrac%7B%78%7D%7B%30%2C%30%32)
+    <img src="https://latex.codecogs.com/gif.latex?\frac{232,2}{1}=\frac{x}{0,1}" />
 
-    ![equation](http://latex.codecogs.com/gif.latex?%78%3D%32%33%2C%32%32)
+    <img src="https://latex.codecogs.com/gif.latex?x=23,22}" />
 
     Utilizarlo durante un 10% de un año, que supone unos 36 días y 12 horas aproximadamente, tiene un coste de 23,22€.
 
     * Por último, en _TMD Hosting_:
 
-    ![equation](http://latex.codecogs.com/gif.latex?5Cfrac%7B%33%35%39%2C%36%34%7D%7B%31%30%7D%3D%5Cfrac%7B%78%7D%7B%30%2C%30%32)
+    <img src="https://latex.codecogs.com/gif.latex?\frac{359,6}{1}=\frac{x}{0,1}" /> 
 
-    ![equation](http://latex.codecogs.com/gif.latex?%78%3D%33%35%2C%39%36)
+    <img src="https://latex.codecogs.com/gif.latex?x=35,96}" />
 
     El coste del servicio durante un 10% del año es de 35,96€.
 
