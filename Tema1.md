@@ -36,6 +36,8 @@ Ahora haré la comparativa:
 
     <img src="https://latex.codecogs.com/gif.latex?\frac{232,2}{1}=\frac{x}{0,01}" />  
 
+    Entonces
+
     <img src="https://latex.codecogs.com/gif.latex?x=2,322}" />  
 
 
@@ -44,6 +46,8 @@ Ahora haré la comparativa:
     * En _TMD Hosting_ el precio anual es de 359,64€. Volvemos a hacer una regla de tres:  
 
     <img src="https://latex.codecogs.com/gif.latex?\frac{359,6}{1}=\frac{x}{0,01}" />  
+
+    Lo que signifca
 
     <img src="https://latex.codecogs.com/gif.latex?x=3,596}" />  
 
@@ -55,6 +59,8 @@ Ahora haré la comparativa:
 
     <img src="https://latex.codecogs.com/gif.latex?\frac{232,2}{1}=\frac{x}{0,1}" />  
 
+    Por tanto
+
     <img src="https://latex.codecogs.com/gif.latex?x=23,22}" />  
 
     Utilizarlo durante un 10% de un año, que supone unos 36 días y 12 horas aproximadamente, tiene un coste de 23,22€.
@@ -62,6 +68,8 @@ Ahora haré la comparativa:
     * Por último, en _TMD Hosting_:  
 
     <img src="https://latex.codecogs.com/gif.latex?\frac{359,6}{1}=\frac{x}{0,1}" />  
+
+    De forma que
 
     <img src="https://latex.codecogs.com/gif.latex?x=35,96}" />  
 
