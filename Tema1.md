@@ -24,7 +24,47 @@ Calculemos ahora la amortización a 4 y 7 años:
     Para una amortización a 7 años, la cantidad a "ahorrar" es menor, puesto que se reparte entre más años. En este caso, dicha cantidad corresponde a 151,002€ anuales.
 
 ## Ejercicio 2
-**Usando las tablas de precios de servicios de alojamiento en Internet "clásicos", es decir, que ofrezcan _Virtual Private Servers_ o servidores físicos, y de proveedores de servicios en la nube, comparar el coste durante un año de un ordenador con un procesador estándar (escogerlo de forma que sea el mismo tipo de procesador en los dos vendedores) y con el resto de las características similares (tamaño de disco duro equivalente a transferencia de disco duro) en el caso de que la infraestructura comprada se usa solo el 1% o el 10% del tiempo.**
+**Usando las tablas de precios de servicios de alojamiento en Internet "clásicos", es decir, que ofrezcan _Virtual Private Servers_ o servidores físicos, y de proveedores de servicios en la nube, comparar el coste durante un año de un ordenador con un procesador estándar (escogerlo de forma que sea el mismo tipo de procesador en los dos vendedores) y con el resto de las características similares (tamaño de disco duro equivalente a transferencia de disco duro) en el caso de que la infraestructura comprada se use solo el 1% o el 10% del tiempo.**
+
+He buscado dos ofertas diferentes para hacer la comparativa, una de [**OVS**](https://www.ovh.es/vps/vps-cloud.xml), la opción de _VPS Cloud 2_, a 19,35€/mes, con 2 cores, 4GB de RAM y 50GB de almacenamiento; y una segunda opción, un poco más cara, de [**TMD Hosting**](https://www.tmdhosting.com/vps-hosting.html), también la segunda opción, _The Original_, a 29,97€/mes, 2 cores, 4GB de RAM y 65GB de almacenamiento SSD.
+
+Ahora haré la comparativa:
+
+1. Uso del 1%.
+
+    * En _OVS_ el precio es de 232,2€ durante los 365 días al año, por lo que hacemos una regla de tres:
+
+    ![equation](http://latex.codecogs.com/gif.latex?5Cfrac%7B%32%33%32%2C%32%7D%7B%31%7D%3D%5Cfrac%7B%78%7D%7B%30%2C%30%32)
+
+    ![equation](http://latex.codecogs.com/gif.latex?%78%3D%32%2C%33%32%32)
+
+    O sea, el coste de usarlo solo el 1% de un año (3,65 días, unos 3 días y 15 horas) es de 2,322€.
+
+    * En _TMD Hosting_ el precio anual es de 359,64€. Volvemos a hacer una regla de tres:
+
+    ![equation](http://latex.codecogs.com/gif.latex?5Cfrac%7B%33%35%39%2C%36%34%7D%7B%31%7D%3D%5Cfrac%7B%78%7D%7B%30%2C%30%32)
+
+    ![equation](http://latex.codecogs.com/gif.latex?%78%3D%33%2C%35%39%36)
+
+    Es decir, el coste de utilizar este servicio durante 3 días y 15 horas al año es de 3,596€.
+
+2. Uso del 10%.
+
+    * Comenzamos con _OVS_; al igual que con el 1% solo hay que hacer una regla de tres, en este caso suponiendo que se usa el 10%.
+
+    ![equation](http://latex.codecogs.com/gif.latex?5Cfrac%7B%32%33%32%2C%32%7D%7B%31%30%7D%3D%5Cfrac%7B%78%7D%7B%30%2C%30%32)
+
+    ![equation](http://latex.codecogs.com/gif.latex?%78%3D%32%33%2C%32%32)
+
+    Utilizarlo durante un 10% de un año, que supone unos 36 días y 12 horas aproximadamente, tiene un coste de 23,22€.
+
+    * Por último, en _TMD Hosting_:
+
+    ![equation](http://latex.codecogs.com/gif.latex?5Cfrac%7B%33%35%39%2C%36%34%7D%7B%31%30%7D%3D%5Cfrac%7B%78%7D%7B%30%2C%30%32)
+
+    ![equation](http://latex.codecogs.com/gif.latex?%78%3D%33%35%2C%39%36)
+
+    El coste del servicio durante un 10% del año es de 35,96€.
 
 ## Ejercicio 3
 **En general, cualquier ordenador con menos de 5 ó 6 años tendrá estos flags. ¿Qué modelo de procesador es? ¿Qué aparece como salida de esa orden? Si usas una máquina virtual, ¿qué resultado da? ¿Y en una Raspberry Pi o, si tienes acceso, [el procesador del móvil](https://stackoverflow.com/questions/26239956/how-to-get-specific-information-of-an-android-device-from-proc-cpuinfo-file)?**
