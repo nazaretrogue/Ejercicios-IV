@@ -12,6 +12,8 @@ El test adicional se enviará a través de un pull request al repositorio corres
 ## Ejercicio 2
 **Para la aplicación que se está haciendo, escribir una serie de aserciones y probar que efectivamente no fallan. Añadir tests para una nueva funcionalidad, probar que falla y escribir el código para que no lo haga (vamos, lo que viene siendo TDD).**
 
+Puesto que el lenguaje de mi aplicación es java, implementaré un test de prueba en dicho lenguaje (en principio será trivial, pero después será transformado a un test real que sirva para comprobar cosas). Para java no hay que instalar nada como tal, ya que las librerias de TDD vienen instaladas directamente con el JDK.
+
 Se ha implementado un [test](https://github.com/nazaretrogue/Microservicio-multimedia/blob/master/test/aserciones.java) que comprueba si la imagen que se recibe está en el formato correcto, JPEG o JPG. Puesto que ahora mismo no sé exactamente como llegará la imagen al servidor, he planteado una idea en el código que ahora mismo está comentada.
 
 La funcionalidad actual del test consiste en crear una imagen en formato RGB y comprobar si esa imagen recién creada se corresponde con el espacio de color RGB.
