@@ -12,7 +12,11 @@ El test adicional se enviará a través de un pull request al repositorio corres
 ## Ejercicio 2
 **Para la aplicación que se está haciendo, escribir una serie de aserciones y probar que efectivamente no fallan. Añadir tests para una nueva funcionalidad, probar que falla y escribir el código para que no lo haga (vamos, lo que viene siendo TDD).**
 
-Se ha implementado un [test](https://github.com/nazaretrogue/Microservicio-multimedia/blob/master/test/aserciones.java) que comprueba si la imagen que se recibe está en el formato correcto, JPEG o JPG. Puesto que ahora mismo no sé exactamente como llegará la imagen al servidor, he planteado una idea en el código que ahora mismo está comentada. Ahora mismo, solo hay una aserción que siempre es falsa puesto que es la única línea del código que se está ejecutando.
+Se ha implementado un [test](https://github.com/nazaretrogue/Microservicio-multimedia/blob/master/test/aserciones.java) que comprueba si la imagen que se recibe está en el formato correcto, JPEG o JPG. Puesto que ahora mismo no sé exactamente como llegará la imagen al servidor, he planteado una idea en el código que ahora mismo está comentada.
+
+La funcionalidad actual del test consiste en crear una imagen en formato RGB y comprobar si esa imagen recién creada se corresponde con el espacio de color RGB.
+
+Una vez que sepa como se envían exactamente las imágenes al servidor, sabré como extraer la imagen de la petición HTTP y convertirla al tipo correspondiente con el que poder trabajar en el test.
 
 ## Ejercicio 4
 **Instalar alguno de los entornos virtuales de node.js (o de cualquier otro lenguaje con el que se esté familiarizado) y, con ellos, instalar la última versión existente, la versión mino más actual de la 4.x y lo mismo para la 0.11 o alguna impar (de desarrollo).**
