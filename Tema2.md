@@ -38,3 +38,12 @@ que despliega en la terminal una larga lista de todas las versiones que se puede
 La instalación de todas las versiones en el entorno virtual de node.js se muestra en la imagen.
 
 ![Versiones instaladas en el entorno](img/versiones-instaladas.png)
+
+## Ejercicio 9
+**Haced los dos primeros pasos antes de pasar al tercero.**
+
+Para llevar a cabo este ejercicio, me he dado de alta directamente desde GitHub en [Travis](https://travis-ci.org/). He activado el repositorio que tendrá integración continua, es decir, el repo del proyecto de [tratamiento de imágenes](https://github.com/nazaretrogue/Microservicio-multimedia).
+
+Una vez hecho esto, y utilizando un fichero de dependencias de Maven para Java ([pom.xml](https://github.com/nazaretrogue/Microservicio-multimedia/blob/master/my-app/pom.xml)), se ha creado un test trivial para comprobar que la integración continua iba bien. Para ello, he tenido que crear un [script de bash](https://github.com/nazaretrogue/Microservicio-multimedia/blob/master/build.sh) para poder ejecutar el test, ya que por defecto Travis busca un fichero _ant_ y en este caso no lo encontraba. Además, he tenido que añadir manualmente en el fichero *pom.xml* un plugin para el compilador puesto que por defecto cogía una versión antigua que ya no estaba soportada.
+
+Para facilitar la existencia de la integración continua en el repositorio, he añadido una etiqueta (*badget*) en el [README](https://github.com/nazaretrogue/Microservicio-multimedia) de forma que se vea a simple vista si el proyecto está correctamente y pasa los test o no.
